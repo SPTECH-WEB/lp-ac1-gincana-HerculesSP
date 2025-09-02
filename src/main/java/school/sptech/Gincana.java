@@ -1,7 +1,5 @@
 package school.sptech;
 
-import org.apache.commons.lang3.stream.Streams;
-
 public class Gincana {
     private String nome;
     private Double premio;
